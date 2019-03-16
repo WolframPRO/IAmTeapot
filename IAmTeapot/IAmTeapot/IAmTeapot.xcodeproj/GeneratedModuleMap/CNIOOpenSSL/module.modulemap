@@ -1,0 +1,4 @@
+module CNIOOpenSSL {
+    umbrella "/Users/wolfram/Documents/IAmTeapot/IAmTeapot/.build/checkouts/swift-nio-ssl.git--8798696167066373197/Sources/CNIOOpenSSL/include"
+    export *
+}
